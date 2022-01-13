@@ -1,0 +1,17 @@
+Open Terminal
+Create a folder
+run npm init
+run npm i express
+run npm i --save -dev-nodemon
+Go to package.json  and update "script" by adding dev nodemon index.js
+create folder called example animals inside create a file.It should be .js
+create another file exanple routes inside create another js file
+create a file called index.js
+insert reguireiment on all files
+create a local host example 8080
+Save
+open a fresh terminal insert npm run dev
+open postman on desktop
+navigate to get window and insert localhost:8080/animals
+click the send button
+metadata for the coded in VS code should appear 
